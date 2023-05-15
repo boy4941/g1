@@ -14,11 +14,5 @@ git/ github
 
 숙취해소 음료와 함께 공부를
 
-<<<<<<< HEAD
-eeeeee
-
-ddddddddd
-=======
 ddddddd
 
->>>>>>> f8109ff32896fbd4b7dee18a56791fe53abb732a
